@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Patent.Api/Patent.Api.csproj" />
+  <Project Path="Patent.Application/Patent.Application.csproj" />
+  <Project Path="Patent.Domain/Patent.Domain.csproj" />
+  <Project Path="Patent.Infrastructure/Patent.Infrastructure.csproj" />
+</Solution>
